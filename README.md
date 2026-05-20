@@ -1,6 +1,6 @@
 # Scalable Real-time Detection of AI-Generated Arabic Text
 
-**Student:** Amani Abdullah Eid Alsehli (Student #6)
+**Student:** Amani Abdullah Eid Alsehli
 **Course:** MSBDA-801 Big Data Analytics
 **Dataset:** [KFUPM-JRCAI Arabic Generated Abstracts](https://huggingface.co/datasets/KFUPM-JRCAI/arabic-generated-abstracts)
 
