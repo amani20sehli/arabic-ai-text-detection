@@ -1,0 +1,7 @@
+pyspark>=4.0.0
+camel-tools>=1.5.0
+nltk>=3.9.0
+numpy>=1.26.0
+matplotlib>=3.10.0
+huggingface_hub>=0.23.0
+pandas>=2.0.0

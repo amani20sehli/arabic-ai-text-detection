@@ -1,0 +1,11 @@
+*.pyc
+__pycache__/
+*.egg-info/
+.env
+*.log
+*.tar.gz
+*.tgz
+hf_env/
+stream_input/
+stream_checkpoint/
+scale_checkpoint/
